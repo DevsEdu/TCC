@@ -1,0 +1,49 @@
+#header{
+    background-color: rgb(7, 7, 138);
+    height: 150px;
+}
+
+#header h1{
+    text-align: center;
+    color: white;
+    font-size: 48px;
+}
+
+#content{
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+}
+
+#division{
+    background-color: black;
+
+    margin-top: 20px;
+
+    width: 100%;
+    height: 50px;
+
+    display: flex;
+}
+
+#part{
+    background-color: white;
+    width: 50%;
+    height: 50px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img{
+    width: 750px;
+    height: 400px;
+}
+
+iframe{
+    width: 1250px;
+    height: 850px;
+}
